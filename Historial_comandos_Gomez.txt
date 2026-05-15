@@ -1,0 +1,172 @@
+clear
+echo $HOME
+man
+man man
+apropos
+pwd
+whoami
+ls
+ls -l
+ls -la
+mkdir clase4_114
+ls - l
+ls -l
+cd clase4_114
+cat > archivo1.txt
+ls -l
+cat archivo1.txt 
+cat > archivo2.txt
+ls -l
+car archivo2.txt 
+cat archivo2.txt 
+cat *.txt
+cat archivo1.txt archivo2.txt >archivo3.txt
+ls -l
+cat archivo3.txt 
+pwd
+cd
+pwd
+ssh-keygen -t ed25519
+ls -la
+cd .ssh
+ls -l
+cat id_ed25519.pub 
+cd
+pwd
+ls -l
+cd repogit/
+ls -l
+git clone git@github.com:maxig2/vmvagrant_repo.git
+{ ls -1 cd
+ls -
+echo 
+exit
+ls -l
+pwd
+cd clase4_114
+pwd
+ls -l
+cat archivo1.txt
+grep linea6
+cd clase4_114
+pwd
+ls -l
+cd
+cdcddcda
+sudo apt updatesudo apt update
+clclear
+clear
+pwd
+mkdir repogit
+ls -l
+cd repogit
+ls -l
+git clone https://github.com/maxig2/TP1_AySO_Gomez_Maximiliano.git
+ls -l
+cd TP1_AySO_Gomez_Maximiliano/
+pwd
+ls -l
+cat /etc/os-release
+grep --help
+grep -i HOME_URL
+cd repogit/
+clear
+pwd
+ls -l
+cd TP1_AySO_Gomez_Maximiliano/
+ls -l
+cat /etc/os-release
+man grenp
+man grep
+grep HOME_URL /etc/os-release
+grep home_url /etc/os-release
+grep -i Home_url /etc/os-release
+grep -i Home_url /etc/os-release >datos_url.txt
+ls-l
+ls -l
+clear
+whoami
+echo “Usuario=$(whoami)” > datos_usuario.txt
+ls -l
+git add
+git add .
+git config --global user.email "maximlianogomez2007@gmail.com"
+git config --global user.name "maxig2"
+git commit -m "ADD: agregado 1er
+ejercicio sobre datos_usuario.txt"
+git status
+git push
+cpuinfo
+clear
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+ls -l
+cat datos_usuario.txt 
+vagrant stau
+vagrant status
+pwq
+pwd
+clear
+cat /proc/cpuinfo
+cd repogit/
+ls -l
+cd TP1_AySO_Gomez_Maximiliano/
+grep "model name" /proc/cpuinfo | head -n1 >>
+datos_usuario.txt
+ls -l
+cat datos_usuarios.txt
+cd
+cd repogit/TP1_AySO_Gomez_Maximiliano/
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt 
+git add .
+git commit -m “feat: Añadiendo información de CPU”
+vagrant status
+git push
+grep "model name" /proc/cpuinfo | head -n1 >> datos_usuario.txt
+cat datos_usuario.txt 
+git add datos_usuario.txt 
+git status
+git push
+git commit -m "feat: Añadiendo información de CPU"
+git push
+clear
+ls -l
+cat <<EOF>> README.md
+Alumno: <Maximiliano>
+División: <114>
+turno: <Mañana>
+EOF
+
+git add README.md datos_usuarios.txt
+add README.md datos_usuario.txt 
+git add README.md datos_usuario.txt 
+git comitt -m "ADD: añadiendo Readme y datos de usuario"
+git commit -m "ADD: Añadiendo Readme y datos de usuario"
+git push
+cat datos_usuario.txt 
+cat README.md
+cd
+mkdir -p ~/materia{1,2}/uni{1,2,3}
+ls -l
+cat materia1
+tree ~/materia1 ~/materia2
+snap install tree  # version 2.1.3+pkg-5852
+sudo snap install tree  # version 2.1.3+pkg-5852
+tree ~/materia1 ~/materia2
+history -a
+cp cp ~/.bash_history ./Historial_comandos_Gomez.txt
+mkdir .bahs_history
+cp ~/.bash_history ./Historial_comandos_Gomez.txt
+ls -l
+cat snap
+cd snap
+ls -l
+cd
+git add .
+cp ~/.bash_history ./Historial_comandos_Apellido.txt
+ls -l
+cd repogit/
+cd TP1_AySO_Gomez_Maximiliano/
+cp ~/.bash_history ./Historial_comandos_Apellido.txt
+ls -l
